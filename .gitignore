@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+
+#VS Code
+.vscode/
+*.code-workspace
+
+#Python
+__pypache__/
+*.pyc
+
+#Windows
+Thumbs.db
+Desktop.ini
